@@ -1,6 +1,6 @@
 # DCGAN on Pokémons
 
-If it takes too long to render in GitHub itself, take a look at it @ Kaggle.
+If it takes too long to render in GitHub itself, take a look at it at Kaggle.
 
 - Notebook Link: https://www.kaggle.com/code/aneesh10/dcgan-on-pok-mon-images
 
